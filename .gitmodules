@@ -1,0 +1,3 @@
+[submodule "lutris"]
+	path = lutris
+	url = https://github.com/lutris/lutris
