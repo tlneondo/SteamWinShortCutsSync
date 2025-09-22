@@ -1,3 +1,6 @@
 [submodule "lutris"]
 	path = lutris
 	url = https://github.com/lutris/lutris
+[submodule "bvdf"]
+	path = bvdf
+	url = https://github.com/barneygale/bvdf
